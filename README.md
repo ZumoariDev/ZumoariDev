@@ -1,7 +1,11 @@
 **Olá! Seja bem-vindo(a) ao meu perfil.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZumoariDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img align="center" alt="Pytyon" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+##
 
 <div>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
