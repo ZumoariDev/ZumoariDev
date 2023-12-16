@@ -1,5 +1,3 @@
-**Olá! Seja bem-vindo(a) ao meu perfil.**
-
 <div>
   <img align="center" alt="Pytyon" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
